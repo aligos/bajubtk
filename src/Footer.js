@@ -6,7 +6,9 @@ const Footer = () => (
       <div className="row">
         <div className="col-md-6 col-sm-6 col-xs-8">
           <p>
-            <span className="copyright__text">2017 © Bajub.tk</span>
+            <span className="copyright__text">
+              2017 © Bajub.tk
+            </span>
           </p>
           <a href="https://icons8.com/icon/21097/Plus">Free icons by Icons8</a>
         </div>
